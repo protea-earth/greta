@@ -43,7 +43,7 @@ python3 greta.py
 
 This will start Greta up for you to now query her for some actions.
 
-## How to query Greta
+## [How to query Greta](https://drive.google.com/open?id=1wFKc-liR9_HaHQsFrMGw1gomMq1pSx3_)
 
 It's quite easy to query Greta. All you need to do is say "Hey Greta" and she'll wake up listening for an action. See below for more information.
 
