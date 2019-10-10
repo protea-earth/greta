@@ -1,0 +1,3 @@
+                    if audio_recorder_callback is not None:
+                        state = "ACTIVE"
+                    break
