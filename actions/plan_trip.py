@@ -266,10 +266,11 @@ url=url+other+other2
 airbnburl=url
 webbrowser.open(url)
 
-speaktext(hostdir, 'Keep in mind that this represents a carbon footprint of %s kilograms CO2, which is roughly equal to burning %s barrels of oil'%(str(int(0.1304*int(miles))), str(int(2.3*0.1304*int(miles)))), False)
+newmiles=miles.replace(' ','').replace('miles','')
+speaktext(hostdir, 'Keep in mind that this represents a carbon footprint of %s kilograms CO2, which is roughly equal to burning %s barrels of oil'%(str(int(0.1304*int(newmiles))), str(int(2.3*0.1304*int(newmiles)))), False)
 speaktext(hostdir, 'If possible, I encourage you to take a train or other public transportation options, which could reduce your emissions substantially.', False)
 os.system('open https://www.wikihow.com/Plan-an-Eco-Friendly-Vacation')
-speaktext(hostdir, 'Read this WikiHow article for some additional suggestions on how to make your trip more eco-friendly')
+speaktext(hostdir, 'Read this WikiHow article for some additional suggestions on how to make your trip more eco-friendly', False)
 
 # update database 
 hostdir=sys.argv[1]
