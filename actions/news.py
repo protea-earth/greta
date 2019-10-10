@@ -76,8 +76,7 @@ def get_date():
 
 # get a random news outlet to not spam all sites 
 
-newstype=4
-# random.randint(0,3)
+newstype=random.randint(0,4)
 
 podcasts=['http://feeds.feedburner.com/Greenbiz350',
           'http://feeds.feedburner.com/TheEnergyTransitionShow',
