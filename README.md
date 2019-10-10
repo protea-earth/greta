@@ -33,7 +33,7 @@ export SUDO_PASSWORD=**********
 export GOOGLE_APPLICATION_CREDENTIALS=/Users/jimschwoebel/Desktop/appcreds/APPNAME-basdfcnas3el98a8sd5.json
 ```
 
-Note that you can get a PROTEA_EMAIL_USERNAME/PROTEA_EMAIL_PASSWORD from Jim @ jim@protea.earth, PROTEA_USERNAME/PROTEA_USERPASSWORD is the username/password from your account registered on the [Protea website](http://protea.earth), the sudo_password is your password for your Mac computer to help shut down computer, and GOOGLE_APPLICATION_CREDENTIALS is the .json key location for the Google API to allow for Google transcription.
+Note the sudo_password is your password for your Mac computer to help shut down computer and GOOGLE_APPLICATION_CREDENTIALS is the .json key location for the Google API to allow for Google transcription.
 
 Now you can run:
 
