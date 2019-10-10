@@ -29,10 +29,6 @@ open .bash_profile
 These are some environment variables that you should set here: 
 
 ```
-export PROTEA_EMAIL_USERNAME=@protea.earth 
-export PROTEA_EMAIL_PASSWORD=**********
-export PROTEA_USERNAME=jim.schwoebel
-export PROTEA_USERPASSWORD=********************
 export SUDO_PASSWORD=**********
 export GOOGLE_APPLICATION_CREDENTIALS=/Users/jimschwoebel/Desktop/appcreds/APPNAME-basdfcnas3el98a8sd5.json
 ```
