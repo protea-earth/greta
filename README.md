@@ -12,7 +12,7 @@ Greta was built as a demo project for the [Climate-KIC Climathon](https://climat
 To get started, clone the repository and install the dependencies:
 
 ```
-git clone git@github.com:jim-schwoebel/greta.git
+git clone git@github.com:protea-earth/greta.git
 cd greta 
 python3 -m venv env
 source env/bin/activate
