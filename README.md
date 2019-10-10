@@ -47,7 +47,7 @@ This will start Greta up for you to now query her for some actions.
 
 It's quite easy to query Greta. All you need to do is say "Hey Greta" and she'll wake up listening for an action. See below for more information.
 
-![](https://github.com/jim-schwoebel/greta/blob/master/data/other/Gif-2019-56-06-18-56-43.gif)
+![](https://github.com/protea-earth/greta/blob/master/data/other/Gif-2019-56-06-18-56-43.gif)
 
 To active Greta, all you need to do is query her with 'Hey Greta!' (1) - which then triggers a response from Greta - (3) in this case, “How can I help you?.” Then, a user provides another query (usually after some beeping sound) - such as (4) “get events.” Greta transcribes this query to understand it, and parses the query for keyword intents; for example, if the response is “get events” the only word that really matters is “events” and that would be used to provoke a response (5). Then, after this keyword maps onto an action dictionary (or a map of responses to keywords), the action is executed (6). Then, the intent loop repeats itself, looking for another wakeword (“Hey Greta”) before triggering another action.
 
@@ -55,7 +55,7 @@ To active Greta, all you need to do is query her with 'Hey Greta!' (1) - which t
 
 Listed here are a description of these actions along with the query intents needed to activate them. 
 
-If you have any other ideas, let us know on the [GitHub issues tab](https://github.com/jim-schwoebel/nala/issues) (as an enhancement)! 
+If you have any other ideas, let us know on the [GitHub issues tab](https://github.com/protea-earth/greta/issues) (as an enhancement)! 
 
 ### General actions 
 
@@ -86,7 +86,7 @@ Here are some ways you can get more involved:
 * register an account @ [Protea.Earth](http://protea.earth), a social network community designed to reduce your carbon footprint.
 * learn more about voice computing and buy the [Voice Computing in Python](https://github.com/jim-schwoebel/voicebook) textbook.
 * be mentored by someone on our team @ [NeuroLex](https://neurolex.ai) through the [Innovation Fellows Program](http://neurolex.ai/research).
-* give some feedback on this repository by opening up a [GitHub issue](https://github.com/jim-schwoebel/greta/issues).
+* give some feedback on this repository by opening up a [GitHub issue](https://github.com/protea-earth/greta/issues).
 * send me an email @ jim@protea.earth; I'm always interested to chat about voice computing and/or climate change!
 
 ## References
