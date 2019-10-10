@@ -140,4 +140,4 @@ def speaktext(hostdir,text):
 os.system('open ~/.bash_profile')
 speaktext(hostdir, 'Please configure your environment variables per this readme')
 os.system('open https://github.com/jim-schwoebel/greta/blob/master/README.md')
-speaktext(hostdir,'Note that you can get a Protea email and username from Jim @ jim@protea.earth, the sudo_password is your password for your Mac cmoputer to help shut down computer, and GOOGLE_APPLICATION_CREDENTIALS is the .json key location for the Google API to allow for Google transcription.')
+speaktext(hostdir, 'Okay, setup is complete. Gret ta is ready for you to start.')
