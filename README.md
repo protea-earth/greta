@@ -61,19 +61,19 @@ If you have any other ideas, let us know on the [GitHub issues tab](https://gith
 
 | Action  | Description | Example query intent | 
 | ------------- | ------------- | ------------- |
-|🌎 calculate_carbon_footprint.py | Guides user through a list of questions then calculates the users carbon footprint (outputs in .PDF form). | “calculate", "carbon", "footprint" | 
-|📅 events.py | Pulls up a meetup.com event related to climate change in your local area. | “events", "meetup" | 
-|📠 facts.py | Grabs one quick fact from a random list of facts about climate change. | “get facts", "grab a fact" | 
-|🥗 food.py | Based on the query, searches yelp for vegetarian-friendly restaurants. |"grab food"| 
-|🎧 music.py | Pulls up a YouTube video that is inspired by climate change and global warming. | "open music", "play me a climate change song"| 
-|📰 news.py | Searches some basic news sites related to climate change. | “grab the news” | 
-|✈️ plan_trip.py | Schedules a trip based on an origin and destination city; suggests some ways to reduce your footprint while traveling. | “plan trip” | 
-|💸 purchase_product.py | Selects a random green vendor and an item that you could purchase to be a good environmental citizen (energy, tech, home, and fashion categories). | “purchase”, "grab me a green product" |
-|♻️ recycle.py | Opens up a voice-guided earth911.com  search for your nearest recycling facility (plastics). | "recycle", "find me the nearest recycling facility" | 
+|🌎 [calculate_carbon_footprint.py](https://drive.google.com/open?id=1Z6jaDPz6kwGahaa1bwQJBvZzTil6FDII) | Guides user through a list of questions then calculates the users carbon footprint (outputs in .PDF form). | “calculate", "carbon", "footprint" | 
+|📅 [events.py](https://drive.google.com/open?id=1ZthFKlQcaGFoyke2rEPN1vekhNfzut0O) | Pulls up a meetup.com event related to climate change in your local area. | “events", "meetup" | 
+|📠 [facts.py](https://drive.google.com/open?id=1YMfVj7nLY_JH7QZ51dM_-XaTBOR7loKH) | Grabs one quick fact from a random list of facts about climate change. | “get facts", "grab a fact" | 
+|🥗 [food.py](https://drive.google.com/open?id=18hTs4qL2aiq_D4eHKH9FnU0tZGc8aoEI) | Based on the query, searches yelp for vegetarian-friendly restaurants. |"grab food"| 
+|🎧 [music.py](https://drive.google.com/open?id=1Lr_7z-zwsnkvREWXTP3DFDR0XhnTELa7) | Pulls up a YouTube video that is inspired by climate change and global warming. | "open music", "play me a climate change song"| 
+|📰 [news.py](https://drive.google.com/open?id=12yKti9dgIvoC3AHg5F_E4zbdxDItce3A) | Searches some basic news sites related to climate change. | “grab the news” | 
+|✈️ [plan_trip.py](https://drive.google.com/open?id=1R3oG14oFAEebtCIt6pF-8UrwrrH0SQx3) | Schedules a trip based on an origin and destination city; suggests some ways to reduce your footprint while traveling. | “plan trip” | 
+|💸 [purchase_product.py](https://drive.google.com/open?id=1CqfUE9s9FQB6laZUQlUK4bRavuUpWQ8a) | Selects a random green vendor and an item that you could purchase to be a good environmental citizen (energy, tech, home, and fashion categories). | “purchase”, "grab me a green product" |
+|♻️ [recycle.py](https://drive.google.com/open?id=1O8dFCX9W_wgtcG89Bu9Nzlr0hyHbyhOh) | Opens up a voice-guided earth911.com  search for your nearest recycling facility (plastics). | "recycle", "find me the nearest recycling facility" | 
 |💻 shut_down.py | Shuts down your computer, assuming your SUDO password is in the environment variables (helps to save energy). | "shut", "shut down", "down" | 
-|🗣️ speech.py | Read Greta's speech from the [UN Climate Action Summit](https://www.npr.org/2019/09/23/763452863/transcript-greta-thunbergs-speech-at-the-u-n-climate-action-summit) | "recite speech", "speech" | 
-|😴 sleep (no script) |  Puts the computer to sleep for a designated time period. | "go to sleep"|
-|🌡️ weather.py | Searches weather.com for the current weather at your location. | "get the weather"|
+|🗣️ [speech.py](https://drive.google.com/open?id=13o7P_EdK6LkoSHH1FQPERhtapdaLVMGX) | Read Greta's speech from the [UN Climate Action Summit](https://www.npr.org/2019/09/23/763452863/transcript-greta-thunbergs-speech-at-the-u-n-climate-action-summit) | "recite speech", "speech" | 
+|😴 [sleep](https://drive.google.com/open?id=1ylteEGYVDaxUR9GpyjpaGoURHyIWbFHj) |  Puts the computer to sleep for a designated time period. | "go to sleep"|
+|🌡️ [weather.py](https://drive.google.com/open?id=1xq0yqbDSVzD7bF1Y5kar4lufCtxfwCVo) | Searches weather.com for the current weather at your location. | "get the weather"|
 
 ... more to come into the future! 
 
