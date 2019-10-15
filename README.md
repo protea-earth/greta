@@ -5,7 +5,9 @@ Greta is an agile voice assistant to help reduce your carbon footprint. She is b
 
 ![](https://media.giphy.com/media/ZbH9DaFU2dZ4F6M4OI/giphy.gif)
 
-Greta was built as a demo project for the [Climate-KIC Climathon](https://climathon.climate-kic.org/en/san-francisco-the-event-page-2019) in the SF Bay Area October 25th, 2019. Built by [Protea](http://protea.earth), the world's leading social network community to reduce your effect on the climate.
+Built by [Protea](http://protea.earth), the world's leading social network community to reduce your effect on the climate.
+
+Greta was built as a demo project for the [Climate-KIC Climathon](https://climathon.climate-kic.org/en/san-francisco-the-event-page-2019) in the SF Bay Area October 25th, 2019. 
 
 ## Getting started
 
