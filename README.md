@@ -1,6 +1,8 @@
 # Greta
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Are%20you%20a%20climate%20enthusiast%20looking%20to%20learn%20how%20to%20be%20a%20better%20climate%20citizen?%20Check%20out%20Greta,%20a%20climate-based%20voice%20assistant%20@%20https://github.com/jim-schwoebel/greta.&hashtags=protea,greta,voice,assistant)
 
+![](https://github.com/protea-earth/carbon_footprint/blob/master/assets/logo.png)
+
 Greta is an agile voice assistant to help reduce your carbon footprint. She is built on top of the [Nala framework](https://github.com/jim-schwoebel/nala) for prototyping voice assistant apps. 
 
 ![](https://media.giphy.com/media/ZbH9DaFU2dZ4F6M4OI/giphy.gif)
