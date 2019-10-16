@@ -13,6 +13,8 @@ Greta was built as a demo project for the [Climate-KIC Climathon](https://climat
 
 ## Getting started
 
+This section assumes you are using a Mac operating system (MacOS) on a device like an iMac / MacBook Pro.
+
 To get started, clone the repository and install the dependencies:
 
 ```
