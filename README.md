@@ -89,10 +89,8 @@ This repository is licensed under the [Apache 2.0 License](https://www.apache.or
 ## Getting involved
 Here are some ways you can get more involved:
 
-* register an account @ [Protea.Earth](http://protea.earth), a social network community designed to reduce your carbon footprint.
 * learn more about voice computing and buy the [Voice Computing in Python](https://github.com/jim-schwoebel/voicebook) textbook.
 * give some feedback on this repository by opening up a [GitHub issue](https://github.com/protea-earth/greta/issues).
-* send me an email @ jim@protea.earth; I'm always interested to chat about voice computing and/or climate change!
 
 ## References
 
